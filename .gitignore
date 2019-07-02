@@ -1,0 +1,4 @@
+# 特定の拡張子を無視する
+*.DS_Store
+*.ipynb
+*.ipynb_checkpoints
